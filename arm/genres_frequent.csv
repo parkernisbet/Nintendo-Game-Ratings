@@ -1,0 +1,186 @@
+,support,itemsets
+0,0.14038657171922686,frozenset({'2D'})
+1,0.07121057985757884,frozenset({'3D'})
+2,0.34689725330620547,frozenset({'Action'})
+3,0.0671414038657172,frozenset({'Action Adventure'})
+4,0.03662258392675483,frozenset({'Action RPG'})
+5,0.019328585961342827,frozenset({'Adventure'})
+6,0.029501525940996948,frozenset({'Application'})
+7,0.06408952187182096,frozenset({'Arcade'})
+8,0.014242115971515769,frozenset({'Automobile'})
+9,0.03458799593082401,"frozenset({""Beat-'Em-Up""})"
+10,0.012207527975584944,frozenset({'Combat'})
+11,0.015259409969481181,frozenset({'Compilation'})
+12,0.0508646998982706,frozenset({'Console-style RPG'})
+13,0.03967446592065107,frozenset({'Driving'})
+14,0.024415055951169887,frozenset({'Edutainment'})
+15,0.08646998982706001,frozenset({'Fantasy'})
+16,0.03458799593082401,frozenset({'Fighting'})
+17,0.017293997965412006,frozenset({'First-Person'})
+18,0.23601220752797558,frozenset({'General'})
+19,0.01017293997965412,frozenset({'Golf'})
+20,0.018311291963377416,frozenset({'Individual'})
+21,0.03458799593082401,frozenset({'Japanese-Style'})
+22,0.01627670396744659,frozenset({'Kart'})
+23,0.011190233977619531,frozenset({'Logic'})
+24,0.02034587995930824,frozenset({'Matching'})
+25,0.2685656154628688,frozenset({'Miscellaneous'})
+26,0.012207527975584944,frozenset({'Modern'})
+27,0.028484231943031537,frozenset({'Music'})
+28,0.01017293997965412,frozenset({'Music Maker'})
+29,0.019328585961342827,frozenset({'Open-World'})
+30,0.02034587995930824,frozenset({'Party'})
+31,0.028484231943031537,frozenset({'Party / Minigame'})
+32,0.1363173957273652,frozenset({'Platformer'})
+33,0.10681586978636826,frozenset({'Puzzle'})
+34,0.044760935910478125,frozenset({'Racing'})
+35,0.01017293997965412,frozenset({'Real-Time'})
+36,0.029501525940996948,frozenset({'Rhythm'})
+37,0.1363173957273652,frozenset({'Role-Playing'})
+38,0.017293997965412006,frozenset({'Sci-Fi'})
+39,0.03662258392675483,frozenset({'Shooter'})
+40,0.03763987792472025,frozenset({'Simulation'})
+41,0.01017293997965412,frozenset({'Soccer'})
+42,0.06408952187182096,frozenset({'Sports'})
+43,0.0844354018311292,frozenset({'Strategy'})
+44,0.06408952187182096,frozenset({'Tactics'})
+45,0.014242115971515769,frozenset({'Third-Person'})
+46,0.03967446592065107,frozenset({'Traditional'})
+47,0.038657171922685654,frozenset({'Trainer'})
+48,0.07222787385554426,frozenset({'Turn-Based'})
+49,0.024415055951169887,frozenset({'Virtual'})
+50,0.02034587995930824,frozenset({'Virtual Life'})
+51,0.14038657171922686,"frozenset({'Action', '2D'})"
+52,0.021363173957273652,"frozenset({'2D', 'Fighting'})"
+53,0.11393692777212615,"frozenset({'2D', 'Platformer'})"
+54,0.0681586978636826,"frozenset({'3D', 'Action'})"
+55,0.027466937945066123,"frozenset({'3D', ""Beat-'Em-Up""})"
+56,0.01627670396744659,"frozenset({'3D', 'Fighting'})"
+57,0.024415055951169887,"frozenset({'3D', 'Platformer'})"
+58,0.018311291963377416,"frozenset({'Action', 'Arcade'})"
+59,0.03458799593082401,"frozenset({'Action', ""Beat-'Em-Up""})"
+60,0.03458799593082401,"frozenset({'Action', 'Fighting'})"
+61,0.013224821973550356,"frozenset({'Action', 'First-Person'})"
+62,0.06917599186164802,"frozenset({'Action', 'General'})"
+63,0.038657171922685654,"frozenset({'Action', 'Miscellaneous'})"
+64,0.026449643947100712,"frozenset({'Action', 'Music'})"
+65,0.01017293997965412,"frozenset({'Music Maker', 'Action'})"
+66,0.1363173957273652,"frozenset({'Action', 'Platformer'})"
+67,0.023397761953204477,"frozenset({'Action', 'Puzzle'})"
+68,0.026449643947100712,"frozenset({'Rhythm', 'Action'})"
+69,0.011190233977619531,"frozenset({'Action', 'Sci-Fi'})"
+70,0.03662258392675483,"frozenset({'Action', 'Shooter'})"
+71,0.01017293997965412,"frozenset({'Action', 'Third-Person'})"
+72,0.03560528992878942,"frozenset({'Fantasy', 'Action Adventure'})"
+73,0.0254323499491353,"frozenset({'General', 'Action Adventure'})"
+74,0.019328585961342827,"frozenset({'Open-World', 'Action Adventure'})"
+75,0.03662258392675483,"frozenset({'Role-Playing', 'Action RPG'})"
+76,0.014242115971515769,"frozenset({'Adventure', 'General'})"
+77,0.015259409969481181,"frozenset({'Application', 'General'})"
+78,0.029501525940996948,"frozenset({'Miscellaneous', 'Application'})"
+79,0.014242115971515769,"frozenset({'Arcade', 'Automobile'})"
+80,0.018311291963377416,"frozenset({'Arcade', 'Driving'})"
+81,0.023397761953204477,"frozenset({'Arcade', 'Racing'})"
+82,0.012207527975584944,"frozenset({'Arcade', 'Shooter'})"
+83,0.022380467955239063,"frozenset({'Arcade', 'Sports'})"
+84,0.022380467955239063,"frozenset({'Arcade', 'Traditional'})"
+85,0.014242115971515769,"frozenset({'Racing', 'Automobile'})"
+86,0.015259409969481181,"frozenset({'Compilation', 'Miscellaneous'})"
+87,0.014242115971515769,"frozenset({'Console-style RPG', 'Japanese-Style'})"
+88,0.0508646998982706,"frozenset({'Role-Playing', 'Console-style RPG'})"
+89,0.015259409969481181,"frozenset({'Trainer', 'Console-style RPG'})"
+90,0.01627670396744659,"frozenset({'Kart', 'Driving'})"
+91,0.03967446592065107,"frozenset({'Driving', 'Racing'})"
+92,0.024415055951169887,"frozenset({'Miscellaneous', 'Edutainment'})"
+93,0.018311291963377416,"frozenset({'General', 'Fantasy'})"
+94,0.04679552390640895,"frozenset({'Strategy', 'Fantasy'})"
+95,0.03560528992878942,"frozenset({'Tactics', 'Fantasy'})"
+96,0.04170905391658189,"frozenset({'Turn-Based', 'Fantasy'})"
+97,0.013224821973550356,"frozenset({'First-Person', 'Shooter'})"
+98,0.10274669379450661,"frozenset({'Miscellaneous', 'General'})"
+99,0.056968463886063074,"frozenset({'Puzzle', 'General'})"
+100,0.019328585961342827,"frozenset({'Role-Playing', 'General'})"
+101,0.013224821973550356,"frozenset({'Sports', 'General'})"
+102,0.01017293997965412,"frozenset({'Sports', 'Golf'})"
+103,0.01017293997965412,"frozenset({'Golf', 'Traditional'})"
+104,0.018311291963377416,"frozenset({'Individual', 'Sports'})"
+105,0.03458799593082401,"frozenset({'Role-Playing', 'Japanese-Style'})"
+106,0.01627670396744659,"frozenset({'Kart', 'Racing'})"
+107,0.011190233977619531,"frozenset({'Puzzle', 'Logic'})"
+108,0.015259409969481181,"frozenset({'Miscellaneous', 'Matching'})"
+109,0.02034587995930824,"frozenset({'Puzzle', 'Matching'})"
+110,0.022380467955239063,"frozenset({'Music', 'Miscellaneous'})"
+111,0.01017293997965412,"frozenset({'Music Maker', 'Miscellaneous'})"
+112,0.02034587995930824,"frozenset({'Party', 'Miscellaneous'})"
+113,0.028484231943031537,"frozenset({'Miscellaneous', 'Party / Minigame'})"
+114,0.07833163784333673,"frozenset({'Miscellaneous', 'Puzzle'})"
+115,0.023397761953204477,"frozenset({'Rhythm', 'Miscellaneous'})"
+116,0.015259409969481181,"frozenset({'Simulation', 'Miscellaneous'})"
+117,0.015259409969481181,"frozenset({'Virtual', 'Miscellaneous'})"
+118,0.015259409969481181,"frozenset({'Miscellaneous', 'Virtual Life'})"
+119,0.01017293997965412,"frozenset({'Music Maker', 'Music'})"
+120,0.028484231943031537,"frozenset({'Rhythm', 'Music'})"
+121,0.01017293997965412,"frozenset({'Music Maker', 'Rhythm'})"
+122,0.013224821973550356,"frozenset({'Party', 'Party / Minigame'})"
+123,0.01017293997965412,"frozenset({'Real-Time', 'Strategy'})"
+124,0.038657171922685654,"frozenset({'Role-Playing', 'Trainer'})"
+125,0.011190233977619531,"frozenset({'Sci-Fi', 'Shooter'})"
+126,0.01017293997965412,"frozenset({'Third-Person', 'Shooter'})"
+127,0.024415055951169887,"frozenset({'Simulation', 'Virtual'})"
+128,0.019328585961342827,"frozenset({'Simulation', 'Virtual Life'})"
+129,0.01017293997965412,"frozenset({'Soccer', 'Sports'})"
+130,0.01017293997965412,"frozenset({'Soccer', 'Traditional'})"
+131,0.03967446592065107,"frozenset({'Sports', 'Traditional'})"
+132,0.06408952187182096,"frozenset({'Tactics', 'Strategy'})"
+133,0.07222787385554426,"frozenset({'Turn-Based', 'Strategy'})"
+134,0.06307222787385554,"frozenset({'Tactics', 'Turn-Based'})"
+135,0.019328585961342827,"frozenset({'Virtual', 'Virtual Life'})"
+136,0.021363173957273652,"frozenset({'Action', '2D', 'Fighting'})"
+137,0.11393692777212615,"frozenset({'Action', '2D', 'Platformer'})"
+138,0.027466937945066123,"frozenset({'3D', 'Action', ""Beat-'Em-Up""})"
+139,0.01627670396744659,"frozenset({'3D', 'Action', 'Fighting'})"
+140,0.024415055951169887,"frozenset({'3D', 'Action', 'Platformer'})"
+141,0.012207527975584944,"frozenset({'Action', 'Arcade', 'Shooter'})"
+142,0.013224821973550356,"frozenset({'Action', 'First-Person', 'Shooter'})"
+143,0.02034587995930824,"frozenset({'Action', 'Music', 'Miscellaneous'})"
+144,0.01017293997965412,"frozenset({'Music Maker', 'Action', 'Miscellaneous'})"
+145,0.011190233977619531,"frozenset({'Action', 'Miscellaneous', 'Puzzle'})"
+146,0.02034587995930824,"frozenset({'Rhythm', 'Action', 'Miscellaneous'})"
+147,0.01017293997965412,"frozenset({'Music Maker', 'Action', 'Music'})"
+148,0.026449643947100712,"frozenset({'Rhythm', 'Action', 'Music'})"
+149,0.01017293997965412,"frozenset({'Music Maker', 'Action', 'Rhythm'})"
+150,0.011190233977619531,"frozenset({'Action', 'Sci-Fi', 'Shooter'})"
+151,0.01017293997965412,"frozenset({'Action', 'Third-Person', 'Shooter'})"
+152,0.012207527975584944,"frozenset({'General', 'Fantasy', 'Action Adventure'})"
+153,0.015259409969481181,"frozenset({'Miscellaneous', 'Application', 'General'})"
+154,0.014242115971515769,"frozenset({'Arcade', 'Racing', 'Automobile'})"
+155,0.018311291963377416,"frozenset({'Arcade', 'Driving', 'Racing'})"
+156,0.022380467955239063,"frozenset({'Arcade', 'Sports', 'Traditional'})"
+157,0.014242115971515769,"frozenset({'Role-Playing', 'Console-style RPG', 'Japanese-Style'})"
+158,0.015259409969481181,"frozenset({'Role-Playing', 'Trainer', 'Console-style RPG'})"
+159,0.01627670396744659,"frozenset({'Kart', 'Driving', 'Racing'})"
+160,0.03560528992878942,"frozenset({'Tactics', 'Strategy', 'Fantasy'})"
+161,0.04170905391658189,"frozenset({'Fantasy', 'Turn-Based', 'Strategy'})"
+162,0.03560528992878942,"frozenset({'Tactics', 'Turn-Based', 'Fantasy'})"
+163,0.04984740590030519,"frozenset({'Miscellaneous', 'Puzzle', 'General'})"
+164,0.01017293997965412,"frozenset({'Sports', 'Golf', 'Traditional'})"
+165,0.015259409969481181,"frozenset({'Miscellaneous', 'Puzzle', 'Matching'})"
+166,0.01017293997965412,"frozenset({'Music Maker', 'Music', 'Miscellaneous'})"
+167,0.022380467955239063,"frozenset({'Rhythm', 'Music', 'Miscellaneous'})"
+168,0.01017293997965412,"frozenset({'Music Maker', 'Miscellaneous', 'Rhythm'})"
+169,0.013224821973550356,"frozenset({'Miscellaneous', 'Party', 'Party / Minigame'})"
+170,0.015259409969481181,"frozenset({'Simulation', 'Virtual', 'Miscellaneous'})"
+171,0.014242115971515769,"frozenset({'Simulation', 'Miscellaneous', 'Virtual Life'})"
+172,0.014242115971515769,"frozenset({'Virtual', 'Miscellaneous', 'Virtual Life'})"
+173,0.01017293997965412,"frozenset({'Music Maker', 'Music', 'Rhythm'})"
+174,0.019328585961342827,"frozenset({'Simulation', 'Virtual', 'Virtual Life'})"
+175,0.01017293997965412,"frozenset({'Soccer', 'Sports', 'Traditional'})"
+176,0.06307222787385554,"frozenset({'Tactics', 'Turn-Based', 'Strategy'})"
+177,0.01017293997965412,"frozenset({'Music Maker', 'Action', 'Music', 'Miscellaneous'})"
+178,0.02034587995930824,"frozenset({'Rhythm', 'Action', 'Music', 'Miscellaneous'})"
+179,0.01017293997965412,"frozenset({'Music Maker', 'Action', 'Miscellaneous', 'Rhythm'})"
+180,0.01017293997965412,"frozenset({'Music Maker', 'Action', 'Music', 'Rhythm'})"
+181,0.03560528992878942,"frozenset({'Fantasy', 'Tactics', 'Turn-Based', 'Strategy'})"
+182,0.01017293997965412,"frozenset({'Music Maker', 'Music', 'Miscellaneous', 'Rhythm'})"
+183,0.014242115971515769,"frozenset({'Simulation', 'Virtual', 'Miscellaneous', 'Virtual Life'})"
+184,0.01017293997965412,"frozenset({'Music Maker', 'Music', 'Action', 'Rhythm', 'Miscellaneous'})"
