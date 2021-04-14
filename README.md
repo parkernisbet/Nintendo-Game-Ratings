@@ -1,4 +1,4 @@
-# Nintendo-Game-Ratings
+# Nintendo Game Ratings
 
 The entirety of this repository concerns a Metacritic-sourced Nintendo games dataset (found [here](https://github.com/yaylinda/nintendo-games-ratings)), with per-title information on: platform, release date, user critic score, ESRB rating, developer(s), and genre(s). Part one covers exploratory data analysis of the user and critic score deltas at length, culminating in a Tableau dashboard with all interesting findings. Part two pivots to using the remaining dataset features in weighted association rule mining, with an end goal of quantifying what combinations of genres, developers, and ratings more consistently lead to higher scores (more to be added on this later).
 
